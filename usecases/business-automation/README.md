@@ -57,7 +57,4 @@ You can find step-by-step instructions here :
 [Step-by-step hands-on guide](https://github.ibm.com/skol/agentic-ai-client-bootcamp/blob/staging/usecases/business-automation/hands-on-lab-buisness-automation.md)
 
 ## Demo Video
-A video demo of the solution is below:
-
-
-https://github.ibm.com/skol/agentic-ai-client-bootcamp/assets/453165/79bf26c4-69c8-4096-ab88-5f9fc38791e5
+A video demo of the solution is available with your instructor.
